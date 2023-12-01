@@ -1,0 +1,16 @@
+.header h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 230, 0);
+}
+
+.text p{
+    justify-content: center;
+    display: flex;
+}
+
+.imagem{
+    display: flex;
+    justify-content: center;
+}
